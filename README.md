@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cynthia-Mandere
-- 👀 I’m interested in all things programming
-- 🌱 I’m currently learning php and its frameworks
-- 💞️ I’m looking to collaborate on projects that are working on React and php
+- 👀 I’m interested in all things data and programming
+- 🌱 I’m currently working on data analytics
 - 📫 How to reach me email me at cynthiamandere@gmail.com
 
 <!---
